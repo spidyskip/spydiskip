@@ -6,7 +6,7 @@
 
 <br />
 
-Software Developer / Data Engineer focused on Python, FastAPI, Docker, AI integrations, and infrastructure automation.[web:37]
+Software Developer / Data Engineer focused on Python, FastAPI, Docker, AI integrations, and infrastructure automation.
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
